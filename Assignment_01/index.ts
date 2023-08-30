@@ -1,0 +1,20 @@
+console.log("Hello! Zain Ul Abideen!, I have started learning TYPESCRIPT")
+var username:string = "Zain Ul Abideen";
+var num1:number = 12; 
+var num2:number = 13; 
+var num3:number = 14; 
+var num4:number = 15; 
+var num5:number = 16; 
+var num6:number = 17; 
+var num7:number = 18; 
+var num8:number = 19; 
+var num9:number = 20; 
+var num10:number = 21; 
+var sum:number = num1 + num2+num3+num4+num5+num6+num7+num8+num9+num10;
+var sub:number = num1 - num2 - num3-num4-num5-num6-num7-num8-num9-num10;
+var result:number= num1 * num2 * num3*num4*num5*num6*num7*num8*num9*num10;
+var div:number = num1%num2;
+console.log(sum);
+console.log(sub);
+console.log(result);
+console.log(div);
